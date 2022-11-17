@@ -1,9 +1,11 @@
--Eu sou  @DENCK0000
--Meu interesse e estudar
--Quero aprender coisas novas 
--Iniciante
-
-<!---
-DENCK0000/DENCK0000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- # Sobre mim.
+- ## Editando perfil:
+- :2 Eu sou  @DENCK0000
+:+1 : Meu email de contato e [email denck.paulo@escola.pr.gov.br.
+- ✏️ Meu interesse e estudar
+- 🌟Quero aprender coisas novas 
+- 🎱 Iniciante
+- 🈴  Morro em Ipiranga PR
+- 🐖 Gosto muiito Animais 
+- 🚲 Otimo bicicletero
+-  ⚽ Ate que bom em bola
